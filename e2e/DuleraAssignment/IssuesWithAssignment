@@ -1,0 +1,5 @@
+// I could not get ISI to display only once in mobile without translucent ISI appearing in the rest of the screenshot. As a result, I removed it altogether.
+However, this causes a blank space at the beginning of the mobile screenshot that I can't fill or remove without setting definite dimensions. I know how to
+set those dimensions, but it seems non-optimal. Is there a better way?
+
+// Second, I did not seem to have access to the repository or it is down as I kept receiving a 404 error in browser and the clone wouldn't finish in terminal.
